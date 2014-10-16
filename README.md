@@ -19,7 +19,13 @@ Css Loaders
 
 http://tobiasahlin.com/spinkit/
 
+Image Cropper
+A simple jQuery image cropping plugin.
+http://fengyuanchen.github.io/cropper/
 
+Velocity.js
+Accelerated JavaScript animation.
+http://julian.com/research/velocity/ OBS: Check VMD
 
 
 Design / UI Codes
