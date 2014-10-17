@@ -27,6 +27,9 @@ Velocity.js
 Accelerated JavaScript animation.
 http://julian.com/research/velocity/ OBS: Check VMD
 
+Get real width and height dimensions
+http://davidwalsh.name/get-image-dimensions
+
 
 Design / UI Codes
 
