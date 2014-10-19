@@ -6,6 +6,10 @@ Important links
 
 #CSS/ JS
 
+
+##Chartist
+http://gionkunz.github.io/chartist-js/
+
 ## Zoomerang
 is a drop-in library that allows your users to zoom in on (almost) any element on your existing page. No setup, arbitrary styling.
 
@@ -71,5 +75,8 @@ https://github.com/coreform/android-formidable-validation
 https://github.com/vekexasia/android-edittext-validator
 
 https://github.com/aliHafizji/CreditCardEditText
+
+
+
 
 
