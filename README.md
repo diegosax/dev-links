@@ -7,6 +7,11 @@ Important links
 #CSS/ JS
 
 
+#In Place Editor
+
+http://vitalets.github.io/x-editable/
+
+
 ##Chartist
 http://gionkunz.github.io/chartist-js/
 
