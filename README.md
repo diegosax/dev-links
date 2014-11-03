@@ -52,6 +52,11 @@ Selectize is the hybrid of a textbox and <select> box. It's jQuery-based and it'
 
 http://brianreavis.github.io/selectize.js/
 
+## Be Lazy
+bLazy is a lightweight lazy loading image script (less than 1.2KB minified and gzipped). It lets you lazy load and multi-serve your images so you can save bandwidth and server requests.
+
+http://dinbror.dk/blazy/
+
 
 #Design / UI Codes
 
